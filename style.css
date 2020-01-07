@@ -1,0 +1,89 @@
+.btn{
+    height: 10px ;
+    width: 100px;
+    border: none;
+    background-color: white;
+    outline: none;
+
+}
+.navebare{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.btn-recherche{
+    display: flex;
+    justify-content:center;
+    margin: 20px;
+}
+.champ1{
+
+    display: flex;
+    justify-content: center;
+}
+.champ{
+    height:45px ;
+    width: 620px;
+    border-radius: 20px;
+    border: 1px grey solid;
+    display: flex;
+    justify-content: center;
+
+}
+input{
+    height: 40PX;
+    width: 600PX;
+    outline: none;
+    border: none;
+    
+
+}
+.recherche{
+    display: flex;
+    justify-content: center;
+    height: 21px;
+    padding: 7px;
+    opacity: 0.5;
+}
+.micro{
+    display: flex;
+    justify-content: center;
+    height: 22px;
+    padding: 7px;
+}
+.logo-google{
+    display: flex;
+    justify-content: center;
+}
+.google{
+    height: 200px;
+}
+.gauche{
+
+
+}
+.droit{
+
+
+}
+footer{
+    position: absolute;
+    bottom: 0px;
+    display: flex;
+    justify-content: flex-start;
+
+}
+.btn1{
+    margin: 20px;
+    height: 40px;
+    width: 200px;
+    border-radius: 5px;
+    outline: none;
+    background-color: grey 0.1;
+    
+}
+.btn2{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
